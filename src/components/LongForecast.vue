@@ -33,6 +33,7 @@ export default{
         background-color: rgb(194, 194, 194);
         border-radius: 20px;
         padding: 1.5rem;
+        max-width: 20%;
     }
 
     .container{
@@ -40,6 +41,7 @@ export default{
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 1rem;
+        gap: 2rem;
+        width: 100%;
     }
 </style>
